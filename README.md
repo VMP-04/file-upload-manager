@@ -1,4 +1,4 @@
-# Next.js File Manager
+# Next.js File Upload Manager
 
 A modern, production-ready file management application built with Next.js 14, MongoDB, and Tailwind CSS.
 
@@ -30,7 +30,7 @@ A modern, production-ready file management application built with Next.js 14, Mo
 
 1. **Clone or download the project**
    ```bash
-   cd nextjs-file-manager
+   cd file-upload-manager
    ```
 
 2. **Install dependencies**
